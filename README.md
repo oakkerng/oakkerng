@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Oakker Naing</h1>
-<h3 align="center">A frontend developer from Myanmar.</h3>
-
-- 🔭 I’m currently working on **NExT Crop**
+<h3 align="center">A Flutter developer from Myanmar.</h3>
 
 - 📫 How to reach me **oakkern@gmail.com**
 
